@@ -1,0 +1,34 @@
+body {
+	font-family: 'Helvetica', Arial, sans-serif;
+	color: #111
+	background: #E7E7E7;
+}
+
+a {
+	color: #0078A0;
+}
+
+.content {
+	text-align: center;
+	padding: 0 15% 20px;
+}
+
+.content h1 {
+	text-transform: uppercase;
+	font-weight: bold;
+	margin: 20px 0;
+}
+
+.content form {
+	padding: 10px;
+	width: 300px;
+	margin: 0 auto;
+}
+
+.content form input {
+	width: 100%;
+	/* border: 2px solid #107394; */
+	color: #107394;
+	background: transparent;
+	magrin-bottom: 15px;
+}
